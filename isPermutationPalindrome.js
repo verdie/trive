@@ -3,6 +3,7 @@
  * @param {string} input - String with a word to validate.
  * @return {boolean} - Returns result of the validation
  */
+
 module.exports = function isPermutationPalindrome(input) {
   const characterRepeats = input
     .toLowerCase()
