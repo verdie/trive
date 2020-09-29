@@ -1,6 +1,6 @@
 ## How to test in terminal:
 
-1. Install all dependancies with `npm install`
+1. Install all dependencies with `npm install`
 1. Type `node` in your terminal to open node shell
 1. Type `const trive = require('./trive.js')` in shell
 1. Type `trive.function(args)` to test selected function
